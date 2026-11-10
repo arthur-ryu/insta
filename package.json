@@ -1,0 +1,13 @@
+{
+  "name": "insta-proxy",
+  "version": "1.0.0",
+  "description": "Instagram Web Proxy for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
